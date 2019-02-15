@@ -8,4 +8,5 @@
 - [selenium](https://github.com/wshoo/python-examples/tree/master/selenium)    模拟浏览器操作
 - [zhimadaili](https://github.com/wshoo/python-examples/tree/master/zhimadaili)    芝麻代理签到
 - [py-base](https://github.com/wshoo/python-examples/tree/master/py-base)    python小知识点
+- [Incremental update](https://github.com/wshoo/python-examples/tree/master/Incremental%20update)    文件增量更新
 - [others](https://github.com/wshoo/python-examples/tree/master/others)    其他
