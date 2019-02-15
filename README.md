@@ -7,4 +7,5 @@
 - [py-db](https://github.com/wshoo/python-examples/tree/master/py-db)   与数据库交互
 - [selenium](https://github.com/wshoo/python-examples/tree/master/selenium)    模拟浏览器操作
 - [zhimadaili](https://github.com/wshoo/python-examples/tree/master/zhimadaili)    芝麻代理签到
+- [py-base](https://github.com/wshoo/python-examples/tree/master/py-base)    python小知识点
 - [others](https://github.com/wshoo/python-examples/tree/master/others)    其他
